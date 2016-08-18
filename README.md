@@ -1,4 +1,4 @@
-#Java Basics Project
+#Pet registration Project
 
 *Simple Java Basic Concepts*
 
